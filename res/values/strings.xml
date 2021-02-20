@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MediaInventory!</string>
+    <string name="app_name">Media Inventory</string>
+    
+    <string name="spinner_format_prompt">Select format</string>
+    <string-array name="string_array_spinner_format">
+        <item>CD</item>
+        <item>DVD</item>
+        <item>Blu Ray</item>
+        <item>HD DVD</item>
+        <item>Laserdisc</item>
+        <item>VHS</item>
+        <item>Betamax</item>
+        <item>Book</item>
+ 	</string-array>
+</resources>
